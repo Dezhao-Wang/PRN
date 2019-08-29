@@ -20,20 +20,20 @@ Institute of Computer Science and Technology, Peking University, Beijing, China
 
 #### Generation
 
-![MM-CU](.\img\MM-CU.png)
+![MM-CU](./img/MM-CU.png)
 
 * Generate multi-scale mean value of CU from coarse to fine.
 
 #### Fusion
 
-![SIFE](.\img\SIFE.png)
+![SIFE](./img/SIFE.png)
 
 * Element-wisely add the feature map of each M-CU to different depths of the main branch of PRN.
 * Finer M-CU to shallower position.
 
 ### Progressive Rethinking Network
 
-![PRN_](.\img\PRN_.png)
+![PRN_](./img/PRN_.png)
 
 
 
