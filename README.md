@@ -12,7 +12,7 @@ Institute of Computer Science and Technology, Peking University, Beijing, China
 
 ### Progressive Rethinking Block
 
-![PRB](.\img\PRB.png)
+![PRB](./img/PRB.png)
 
 * Based on Residual Dense Block [1], an inter-block connection is added to preserve the information from previous block.
 
